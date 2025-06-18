@@ -6,7 +6,7 @@ import axios from "axios";
 import toast from "react-hot-toast";
 import { MdDelete } from "react-icons/md";
 
-const server = "http://16.171.194.81:7000";
+const server = "http://51.21.182.104:7000";
 
 const Admin = () => {
   const navigate = useNavigate();

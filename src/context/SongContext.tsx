@@ -8,7 +8,7 @@ import React, {
   useState,
 } from "react";
 
-const server = "http://16.171.194.81:8000";
+const server = "http://51.21.182.104:8000";
 
 export interface Song {
   id: string;
